@@ -1,0 +1,12 @@
+criar novo projeto
+    yarn init
+pacotes:
+    @babel/cli -D
+    @babel/core -D
+    @babel/preset-env -D
+    babel-loader -D
+    webpack -D
+    webpack-cli -D
+    webpack-dev-server -D
+    @babel/polyfill 
+    axios
