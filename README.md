@@ -1,3 +1,4 @@
+**Treinamento do curso de javascript da plataforma Udemy**
 **API que pega os dados do repositório do github e mostra na tela**
 
 **USO:**
