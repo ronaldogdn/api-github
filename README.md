@@ -5,5 +5,7 @@ no input insere o repositorio/usuario
 
 Exemplo:
 **ronaldogdn/EcommerceMVC**
+
+**Para apagar é só clicar no repositório criado**
 ![Screenshot](Screenshot.png)
 
